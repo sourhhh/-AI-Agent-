@@ -20,8 +20,8 @@ BIT软件体系结构与设计模式课程项目
 本项目采用多Agent协作架构，具体包括感知Agent、决策Agent和执行Agent。
 感知Agent负责读取项目信息，调用分析工具，提取缺陷特征，并输出结构化数据。决策Agent接收感知Agent输出的数据，判断缺陷的优先级，匹配处理策略，并下达执行指令。执行Agent接收决策Agent的指令，生成修复代码，进行替换测试，并反馈结果。
 
-<img width="596" height="681" alt="架构设计图" src="https://github.com/user-attachments/assets/b7b98632-c3d2-455e-8739-216ef83915c4" />
+<img width="1130" height="3276" alt="原型架构转化理解示意" src="https://github.com/user-attachments/assets/fc88d52a-0879-47ef-9349-9cee82c23d1e" />
 
 2.工作流设计
 
-<img width="1577" height="1457" alt="工作流设计" src="https://github.com/user-attachments/assets/8b9084d7-0c54-4eea-9045-d32d9933ea24" />
+<img width="3556" height="6720" alt="第一次迭代完整工作流" src="https://github.com/user-attachments/assets/6950da75-3449-4788-8603-8257e2cccf63" />
