@@ -1,0 +1,93 @@
+2025-09-18 16:19:44,080 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-18 16:19:44,082 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-18 16:19:44,082 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-18 16:19:44,082 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-18 16:19:44,082 - DecisionManagerAgent - WARNING - 未找到缺陷类型 'unknown_defect' 的特定修复策略，使用通用策略
+2025-09-18 16:19:44,083 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-18 16:19:44,083 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-18 16:19:44,083 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 2 个缺陷报告
+2025-09-18 16:19:44,083 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 2 个任务
+2025-09-18 16:19:44,090 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-18 16:19:44,090 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-18 16:19:44,090 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 1 个缺陷报告
+2025-09-18 16:19:44,090 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 1 个任务
+2025-09-18 16:19:44,090 - DecisionManagerAgent - INFO - 修复计划已保存至: test_repair_plan.json
+2025-09-18 16:19:44,100 - DecisionManagerAgent - INFO - 从 test_repair_plan.json 加载修复计划，包含 1 个任务
+2025-09-20 16:52:00,559 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 16:52:00,559 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 16:52:00,560 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 16:52:00,560 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 16:52:00,560 - DecisionManagerAgent - WARNING - 未找到缺陷类型 'unknown_defect' 的特定修复策略，使用通用策略
+2025-09-20 16:52:00,561 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 16:52:00,561 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 16:52:00,561 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 2 个缺陷报告
+2025-09-20 16:52:00,561 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 2 个任务
+2025-09-20 16:52:00,571 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 16:52:00,571 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 16:52:00,571 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 1 个缺陷报告
+2025-09-20 16:52:00,571 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 1 个任务
+2025-09-20 16:52:00,571 - DecisionManagerAgent - INFO - 修复计划已保存至: test_repair_plan.json
+2025-09-20 16:52:00,572 - DecisionManagerAgent - INFO - 从 test_repair_plan.json 加载修复计划，包含 1 个任务
+2025-09-20 17:02:47,879 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:02:47,879 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:02:47,879 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:02:47,879 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:02:47,879 - DecisionManagerAgent - WARNING - 未找到缺陷类型 'unknown_defect' 的特定修复策略，使用通用策略
+2025-09-20 17:02:47,879 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:02:47,879 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:02:47,879 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 2 个缺陷报告
+2025-09-20 17:02:47,880 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 2 个任务
+2025-09-20 17:02:47,897 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:02:47,897 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:02:47,897 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 1 个缺陷报告
+2025-09-20 17:02:47,897 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 1 个任务
+2025-09-20 17:02:47,898 - DecisionManagerAgent - INFO - 修复计划已保存至: test_repair_plan.json
+2025-09-20 17:02:47,912 - DecisionManagerAgent - INFO - 从 test_repair_plan.json 加载修复计划，包含 1 个任务
+2025-09-20 17:25:38,209 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:25:38,210 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:25:38,210 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:25:38,210 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:25:38,210 - DecisionManagerAgent - WARNING - 未找到缺陷信息 'unknown_defect' 的特定修复策略，使用通用策略
+2025-09-20 17:25:38,210 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:25:38,211 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:25:38,211 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 2 个缺陷报告
+2025-09-20 17:25:38,211 - DecisionManagerAgent - ERROR - 缺陷报告不完整（缺少文件路径或context中的缺陷信息），跳过处理: {'file_path': '/path/to/project/utils/helpers.py', 'defect_index': 0, 'defect_type': 'eval_injection', 'impact': 'widespread', 'context': {'vulnerable_function': 'eval', 'safe_replacement': 'ast.literal_eval'}}
+2025-09-20 17:25:38,211 - DecisionManagerAgent - ERROR - 缺陷报告不完整（缺少文件路径或context中的缺陷信息），跳过处理: {'file_path': '/path/to/project/models/user.py', 'defect_index': 2, 'defect_type': 'null_pointer', 'impact': 'normal', 'context': {'variable': 'user_profile', 'suggested_check': 'if user_profile is not None'}}
+2025-09-20 17:25:38,211 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 0 个任务
+2025-09-20 17:25:38,223 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:25:38,223 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:25:38,223 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 1 个缺陷报告
+2025-09-20 17:25:38,223 - DecisionManagerAgent - ERROR - 缺陷报告不完整（缺少文件路径或context中的缺陷信息），跳过处理: {'file_path': '/path/to/test.py', 'defect_index': 0, 'defect_type': 'syntax_error'}
+2025-09-20 17:25:38,223 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 0 个任务
+2025-09-20 17:25:38,223 - DecisionManagerAgent - INFO - 修复计划已保存至: test_repair_plan.json
+2025-09-20 17:25:38,230 - DecisionManagerAgent - INFO - 从 test_repair_plan.json 加载修复计划，包含 0 个任务
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:29:14,856 - DecisionManagerAgent - WARNING - 未找到缺陷信息 'unknown_defect' 的特定修复策略，使用通用策略
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 2 个缺陷报告
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 2 个任务
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 1 个缺陷报告
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 1 个任务
+2025-09-20 17:29:14,856 - DecisionManagerAgent - INFO - 修复计划已保存至: test_repair_plan.json
+2025-09-20 17:29:14,867 - DecisionManagerAgent - INFO - 从 test_repair_plan.json 加载修复计划，包含 1 个任务
+2025-09-20 17:30:39,103 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:30:39,103 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:30:39,103 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:30:39,103 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:30:39,103 - DecisionManagerAgent - WARNING - 未找到缺陷信息 'unknown_defect' 的特定修复策略，使用通用策略
+2025-09-20 17:30:39,103 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:30:39,103 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:30:39,103 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 2 个缺陷报告
+2025-09-20 17:30:39,103 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 2 个任务
+2025-09-20 17:30:39,104 - DecisionManagerAgent - INFO - 初始化DecisionManagerAgent...
+2025-09-20 17:30:39,104 - DecisionManagerAgent - INFO - DecisionManagerAgent初始化完成
+2025-09-20 17:30:39,104 - DecisionManagerAgent - INFO - 开始生成修复计划，共收到 1 个缺陷报告
+2025-09-20 17:30:39,104 - DecisionManagerAgent - INFO - 修复计划生成完成，共包含 1 个任务
+2025-09-20 17:30:39,104 - DecisionManagerAgent - INFO - 修复计划已保存至: test_repair_plan.json
+2025-09-20 17:30:39,105 - DecisionManagerAgent - INFO - 从 test_repair_plan.json 加载修复计划，包含 1 个任务

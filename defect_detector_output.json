@@ -1,0 +1,33 @@
+{
+  "defect_reports": [
+    {
+      "file_path": "/project/backend/utils/auth.py",
+      "defect_index": 0,
+      "impact": "critical_system",
+      "context": {
+        "defect_type": "hardcoded_credentials",
+        "vulnerable_code": "API_KEY = 'sk-1234567890abcdef'",
+        "line_number": 15
+      }
+    },
+    {
+      "file_path": "/project/frontend/components/FormValidator.js",
+      "defect_index": 1,
+      "impact": "widespread",
+      "context": {
+        "defect_type": "null_pointer",
+        "vulnerable_code": "if (userInput.value.length > 0)",
+        "line_number": 42
+      }
+    }
+  ],
+  "report_metadata": {
+    "detector_agent_version": "v1.2.0",
+    "detection_time": "2024-05-20T14:30:45+08:00",
+    "total_defects": 2,
+    "defect_severity_distribution": {
+      "CRITICAL": 1,
+      "HIGH": 1
+    }
+  }
+}
